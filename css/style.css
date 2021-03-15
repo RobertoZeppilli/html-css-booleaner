@@ -1,0 +1,32 @@
+/* logo, titolo, autore */
+header {
+    background-color: lightskyblue;
+    width: 85%;
+    height: 150px;
+    background-image: url('../img/pattern.png');
+    background-position: 50px 60px;
+    
+}
+
+#logo {
+    height: 250px;
+    width: 250px;
+    
+}
+
+.autore, .data {
+    color: grey;
+    font-size: 15px;
+}
+
+.blue {
+    color: blue;
+}
+
+body {
+    width: 1200px;
+}
+
+.descrizione {
+    font-size: 10px;
+}
